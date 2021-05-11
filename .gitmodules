@@ -1,0 +1,3 @@
+[submodule "main/ulp_gpio"]
+	path = main/ulp_gpio
+	url = github:bitmandu/ulp_gpio.git

@@ -1,0 +1,10 @@
+menu "esp32s2-ulp-riscv-blinky"
+
+   config GPIO_NUM
+        int "GPIO pin number"
+	range 0 21
+	default 12
+	help
+	    GPIO pin number
+
+endmenu
